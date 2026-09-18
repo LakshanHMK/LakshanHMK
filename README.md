@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lakshan 👋
 
-<!--
-**LakshanHMK/LakshanHMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering undergraduate focused on building secure, maintainable full-stack applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & Spring Boot
+- React & Vite
+- MySQL
+- REST APIs
+- Git & GitHub
+- Spring Security
+
+## Featured Project
+
+### LankaStay Hotels & Resorts
+
+A full-stack hotel reservation and management system built with Spring Boot, React, and MySQL.
+
+- Secure authentication and session management
+- Hotel and reservation management
+- Flyway database migrations
+- Automated backend and frontend CI
+- CodeQL, secret protection, and dependency security
+
+[View LankaStay on GitHub](https://github.com/LakshanHMK/hotel-reservation-system)
+
+## Currently Learning
+
+Software architecture, backend development, database design, security, and modern full-stack engineering.
